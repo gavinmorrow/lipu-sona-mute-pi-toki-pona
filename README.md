@@ -21,4 +21,5 @@ lipu li pana e sitelen nimi e sona nimi (nasin li sitelen pona). taso nimi li al
 ![lipu li pana e sitelen nimi e sona nimi (nasin li sitelen pona). taso nimi li ale](/sona-nimi-sitelen-pona.png)
 
 lipu tu li pana e sitelen nimi (sitelen li sitelen sitelen):
-![lipu tu li pana e sitelen nimi (sitelen li sitelen sitelen)](/nimi-sitelen-sitelen.png)
+![lipu nanpa wan li pana e sitelen nimi (sitelen li sitelen sitelen)](/nimi-sitelen-sitelen.png)
+![lipu nanpa tu li pana e sitelen pi nimi kalama (sitelen li sitelen sitelen)](/kalama-sitelen-sitelen.png)
